@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">fun 2048</string>
+    <string name="info">"2048 is a single-player sliding puzzle game created by Gabriele Cirulli in 2014. Players manipulate numbered tiles (2s, 4s, 8s, etc.) on a 4x4 grid with the objective of reaching the tile with the coveted value of 2048. Its seemingly simple mechanics - tiles slide and merge when identical numbers collide - belie a surprising depth of strategy.</string>
+
+    <string name="info2"> "The game's brilliance lies in its exponential challenge. While merging lower-value tiles (2s and 4s) starts the journey, reaching the lofty heights of 2048 requires strategic planning. Players must anticipate future moves, carefully choosing directions to maximize high-value merges (8s and 16s) and avoid deadlocks that block further progress.</string>
+</resources>
